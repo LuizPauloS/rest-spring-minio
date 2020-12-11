@@ -1,0 +1,10 @@
+server:
+  port: 9002
+  servlet:
+    context-path: /minio/v1
+
+minio:
+  url: https://play.min.io/
+  access:
+    name: Q3AM3UQ867SPQQA43P2F
+    secret: zuf+tfteSlswRu7BJ86wekitnifILbZam1KYY3TG
